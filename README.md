@@ -1,2 +1,2 @@
 # JavaBashTerminal
-I created this bash terminal as part of my Computer Science II course at Stony Brook University.
+This command line bash terminal allows users to create and traverse files in the form of a directory tree.
